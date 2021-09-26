@@ -5,7 +5,7 @@
 git clone https://github.com/add-flav1s/ToDoList-vuejs.git
 ```
 
-## Acesse a pasta do projeto e rode o servidor. (certifique-se de ter o npm instalado na máquina)
+## Acesse a pasta do projeto e rode o servidor. <strike>(certifique-se de ter o npm instalado na máquina)</strike>
 ```
 npm run serve
 ```
