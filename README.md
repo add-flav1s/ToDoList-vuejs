@@ -3,7 +3,6 @@
 ## Stack usada
 - VueJs.
 - Framework de css <bold>spectre.css</bold>.
-- 
 
 ## Implementações
 
